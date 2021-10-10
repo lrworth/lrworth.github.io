@@ -1,0 +1,26 @@
+body {
+	font-family: Georgia, Garamond, serif;
+	/*font-family: Arial, Helvetica, sans-serif;*/
+	font-size: 16px;
+	line-height: 1.3em;
+}
+
+.main-page-content {
+	margin-left: 20%;
+	margin-right: 10%;
+	min-height: calc(100vh - 4.5rem);
+}
+
+#mc_embed_signup {
+	float:  right;
+}
+
+footer {
+	clear:  right;
+}
+
+#menu {
+	height: 100%;
+	width:  20%;
+	position: fixed;
+}
